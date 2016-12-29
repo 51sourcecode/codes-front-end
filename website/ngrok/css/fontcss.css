@@ -1,0 +1,288 @@
+/* latin-ext */
+@font-face {
+  font-family: 'Exo';
+  font-style: normal;
+  font-weight: 100;
+  src: local('Exo Thin'), local('Exo-Thin'), url(http://fontstatic.useso.com/s/exo/v4/j8EBz01yB8gJKyquT3h2cg.woff) format('woff');
+  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Exo';
+  font-style: normal;
+  font-weight: 100;
+  src: local('Exo Thin'), local('Exo-Thin'), url(http://fontstatic.useso.com/s/exo/v4/qyfp0OSqk7TET2opvcMBmw.woff) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Exo';
+  font-style: normal;
+  font-weight: 200;
+  src: local('Exo ExtraLight'), local('Exo-ExtraLight'), url(http://fontstatic.useso.com/s/exo/v4/evkoVCgx7VtyUbz56pDg0PesZW2xOQ-xsNqO47m55DA.woff) format('woff');
+  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Exo';
+  font-style: normal;
+  font-weight: 200;
+  src: local('Exo ExtraLight'), local('Exo-ExtraLight'), url(http://fontstatic.useso.com/s/exo/v4/z1hPnoJcXaXYata_d2utlw.woff) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Exo';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Exo Light'), local('Exo-Light'), url(http://fontstatic.useso.com/s/exo/v4/JrSjP1SzkD668wXCjPLiY_esZW2xOQ-xsNqO47m55DA.woff) format('woff');
+  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Exo';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Exo Light'), local('Exo-Light'), url(http://fontstatic.useso.com/s/exo/v4/q_s1igR8FunFvLlUJksouQ.woff) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Exo';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Exo Regular'), local('Exo-Regular'), url(http://fontstatic.useso.com/s/exo/v4/Acoy5ipwRyX7B6nHXLkQVw.woff) format('woff');
+  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Exo';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Exo Regular'), local('Exo-Regular'), url(http://fontstatic.useso.com/s/exo/v4/wocyXRLWPo2Av-yUTmmbTA.woff) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Exo';
+  font-style: normal;
+  font-weight: 500;
+  src: local('Exo Medium'), local('Exo-Medium'), url(http://fontstatic.useso.com/s/exo/v4/9X1kYCfEewgrKFi_duVgl_esZW2xOQ-xsNqO47m55DA.woff) format('woff');
+  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Exo';
+  font-style: normal;
+  font-weight: 500;
+  src: local('Exo Medium'), local('Exo-Medium'), url(http://fontstatic.useso.com/s/exo/v4/yLVQVmQgTSUkafMu4HoVJA.woff) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Exo';
+  font-style: normal;
+  font-weight: 600;
+  src: local('Exo DemiBold'), local('Exo-DemiBold'), url(http://fontstatic.useso.com/s/exo/v4/A3Z2Dofpcz1_sBRTcAhvUfesZW2xOQ-xsNqO47m55DA.woff) format('woff');
+  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Exo';
+  font-style: normal;
+  font-weight: 600;
+  src: local('Exo DemiBold'), local('Exo-DemiBold'), url(http://fontstatic.useso.com/s/exo/v4/yQnHD5L8a9aDb09o13m_pg.woff) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Exo';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Exo Bold'), local('Exo-Bold'), url(http://fontstatic.useso.com/s/exo/v4/6Vhfb05kXy_XOuR4Le7aD_esZW2xOQ-xsNqO47m55DA.woff) format('woff');
+  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Exo';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Exo Bold'), local('Exo-Bold'), url(http://fontstatic.useso.com/s/exo/v4/RokIQ-knd7LT9uhmuUjL2g.woff) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Exo';
+  font-style: normal;
+  font-weight: 800;
+  src: local('Exo ExtraBold'), local('Exo-ExtraBold'), url(http://fontstatic.useso.com/s/exo/v4/ZIw2EWCMkeIkr4mJ8_kBJvesZW2xOQ-xsNqO47m55DA.woff) format('woff');
+  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Exo';
+  font-style: normal;
+  font-weight: 800;
+  src: local('Exo ExtraBold'), local('Exo-ExtraBold'), url(http://fontstatic.useso.com/s/exo/v4/JZqdj-HRS4iJsSlrSwRCxA.woff) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Exo';
+  font-style: normal;
+  font-weight: 900;
+  src: local('Exo Black'), local('Exo-Black'), url(http://fontstatic.useso.com/s/exo/v4/lS9_SDHLuOXFruJrgLtYH_esZW2xOQ-xsNqO47m55DA.woff) format('woff');
+  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Exo';
+  font-style: normal;
+  font-weight: 900;
+  src: local('Exo Black'), local('Exo-Black'), url(http://fontstatic.useso.com/s/exo/v4/vUUX2FySly3npcleKTbosw.woff) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Exo';
+  font-style: italic;
+  font-weight: 100;
+  src: local('Exo Thin Italic'), local('Exo-ThinItalic'), url(http://fontstatic.useso.com/s/exo/v4/6I5CvJuE3FHk6InRXLoymPY6323mHUZFJMgTvxaG2iE.woff) format('woff');
+  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Exo';
+  font-style: italic;
+  font-weight: 100;
+  src: local('Exo Thin Italic'), local('Exo-ThinItalic'), url(http://fontstatic.useso.com/s/exo/v4/-KJ68G4vOQ0iT-Z_CUBd8g.woff) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Exo';
+  font-style: italic;
+  font-weight: 200;
+  src: local('Exo ExtraLight Italic'), local('Exo-ExtraLightItalic'), url(http://fontstatic.useso.com/s/exo/v4/FPnPZTRGv9D_W0DHXCYz6xTbgVql8nDJpwnrE27mub0.woff) format('woff');
+  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Exo';
+  font-style: italic;
+  font-weight: 200;
+  src: local('Exo ExtraLight Italic'), local('Exo-ExtraLightItalic'), url(http://fontstatic.useso.com/s/exo/v4/nNEH4yXWO5IRvRnrB8N0o_esZW2xOQ-xsNqO47m55DA.woff) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Exo';
+  font-style: italic;
+  font-weight: 300;
+  src: local('Exo Light Italic'), local('Exo-LightItalic'), url(http://fontstatic.useso.com/s/exo/v4/XLzL3rzDl5RTtXLGgbSdzRTbgVql8nDJpwnrE27mub0.woff) format('woff');
+  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Exo';
+  font-style: italic;
+  font-weight: 300;
+  src: local('Exo Light Italic'), local('Exo-LightItalic'), url(http://fontstatic.useso.com/s/exo/v4/MvuC31KewP-QFsxbMzfMJfesZW2xOQ-xsNqO47m55DA.woff) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Exo';
+  font-style: italic;
+  font-weight: 400;
+  src: local('Exo Italic'), local('Exo-Italic'), url(http://fontstatic.useso.com/s/exo/v4/tXHeRC_e3RIk4DH-D2DIyQ.woff) format('woff');
+  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Exo';
+  font-style: italic;
+  font-weight: 400;
+  src: local('Exo Italic'), local('Exo-Italic'), url(http://fontstatic.useso.com/s/exo/v4/SrRPhC0khZfK-pbowUGBAw.woff) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Exo';
+  font-style: italic;
+  font-weight: 500;
+  src: local('Exo Medium Italic'), local('Exo-MediumItalic'), url(http://fontstatic.useso.com/s/exo/v4/oa6kchw7f6IK3RLLrALiBxTbgVql8nDJpwnrE27mub0.woff) format('woff');
+  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Exo';
+  font-style: italic;
+  font-weight: 500;
+  src: local('Exo Medium Italic'), local('Exo-MediumItalic'), url(http://fontstatic.useso.com/s/exo/v4/1LnzhM6dYPICwfoM9MfuCvesZW2xOQ-xsNqO47m55DA.woff) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Exo';
+  font-style: italic;
+  font-weight: 600;
+  src: local('Exo DemiBold Italic'), local('Exo-DemiBoldItalic'), url(http://fontstatic.useso.com/s/exo/v4/m-SeutpoypbunqDg9VlLaxTbgVql8nDJpwnrE27mub0.woff) format('woff');
+  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Exo';
+  font-style: italic;
+  font-weight: 600;
+  src: local('Exo DemiBold Italic'), local('Exo-DemiBoldItalic'), url(http://fontstatic.useso.com/s/exo/v4/cS7UYuQb9nyqGPgy45MPV_esZW2xOQ-xsNqO47m55DA.woff) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Exo';
+  font-style: italic;
+  font-weight: 700;
+  src: local('Exo Bold Italic'), local('Exo-BoldItalic'), url(http://fontstatic.useso.com/s/exo/v4/5xsge5FdW63HwfoWWO8ngBTbgVql8nDJpwnrE27mub0.woff) format('woff');
+  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Exo';
+  font-style: italic;
+  font-weight: 700;
+  src: local('Exo Bold Italic'), local('Exo-BoldItalic'), url(http://fontstatic.useso.com/s/exo/v4/ENjw15vOU74UM6LyiOhPTvesZW2xOQ-xsNqO47m55DA.woff) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Exo';
+  font-style: italic;
+  font-weight: 800;
+  src: local('Exo ExtraBold Italic'), local('Exo-ExtraBoldItalic'), url(http://fontstatic.useso.com/s/exo/v4/7YmwIH9xHIcgVq0BhYZlgBTbgVql8nDJpwnrE27mub0.woff) format('woff');
+  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Exo';
+  font-style: italic;
+  font-weight: 800;
+  src: local('Exo ExtraBold Italic'), local('Exo-ExtraBoldItalic'), url(http://fontstatic.useso.com/s/exo/v4/OxHvdhxScdJBgJvW3f2di_esZW2xOQ-xsNqO47m55DA.woff) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Exo';
+  font-style: italic;
+  font-weight: 900;
+  src: local('Exo Black Italic'), local('Exo-BlackItalic'), url(http://fontstatic.useso.com/s/exo/v4/vlG47_5gs9GevNFhFRppUBTbgVql8nDJpwnrE27mub0.woff) format('woff');
+  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Exo';
+  font-style: italic;
+  font-weight: 900;
+  src: local('Exo Black Italic'), local('Exo-BlackItalic'), url(http://fontstatic.useso.com/s/exo/v4/3cavH_EZOAWIiny3PJAOYfesZW2xOQ-xsNqO47m55DA.woff) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
+}
